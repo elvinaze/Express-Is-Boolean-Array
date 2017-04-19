@@ -15,8 +15,6 @@ npm install --save is-boolean-array-validator
 
 First call package in your express main js file
 
-Say what the step will be
-
 ```javascript
 const isBooleanValidator = require('is-boolean-array-validator');
 
