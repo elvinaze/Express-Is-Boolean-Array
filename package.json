@@ -1,0 +1,32 @@
+{
+  "name": "is-boolean-array-validator",
+  "version": "1.0.0",
+  "description": "Express Validator for array to check if cotains only boolean values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "validator",
+    "is",
+    "boolean",
+    "validator",
+    "array",
+    "validator"
+  ],
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/elvinaze/Express-Is-Boolean-Array.git"
+  },
+  "author": { "name": "Elvin Mammadov", "email": "oplaze@gmail.com"},
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "dependencies": {
+    "express-validator": "^3.1.3"
+  }
+}
